@@ -1,3 +1,6 @@
 ---
 title: "assignments"
 ---
+
+My STAT - 515 Assignments. 
+
