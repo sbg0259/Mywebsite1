@@ -1,8 +1,15 @@
 ---
-title: "My Introduction"
+title: "Sai Bhaskara Ganesh Gandi"
+image: myphoto.jpg
+toc: false
+about:
+  template: trestles
+  image-shape: round
+  image-width: 20em
 format: html
 editor: visual
 ---
+
 
 Welcome to my corner of the web! My name is Sai Bhaskara Ganesh Gandi, and I'm thrilled to have you here. Let me take a moment to introduce myself:
 
