@@ -9,8 +9,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - assignments.qmd
       - projects.qmd
+      - codes.qmd
 
 format:
   html:
