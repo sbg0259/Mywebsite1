@@ -1,5 +1,17 @@
 ---
 title: "Projects"
+output:
+  quarto::quarto_html:
+    self_contained: false
+---
+
+# Welcome to My STAT-515 Mid Project
+
+Here's an embedded PDF:
+
+```{pdf, path="/Users/saibhaskarganeshgandi/Documents/GitHub/mywebsite1/docs/Midproject1.pdf"}
+
 ---
 
 My STAT-515 Projects
+
