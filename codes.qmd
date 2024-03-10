@@ -4,3 +4,12 @@ editor: visual
 ---
 
 The codes which i wrote in R programming language to represent visualizations for STAT-515 MID-PROJECT.
+
+Here's an embedded PDF of Spotify Dataset.:
+
+[Download PDF](https://drive.google.com/file/d/1p6hl6p-xTzfUw6TwD3NqAFG-CszoeY1x/view?usp=drive_link)
+
+
+Here's an embedded PDF of Flights Dataset.:
+
+[Download PDF](https://drive.google.com/file/d/1rmsjqA-62qnQnehNvlKROmymlohfGuPT/view?usp=drive_link)
