@@ -11,7 +11,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Welcome to My STAT-515 Mid Project\nHere’s an embedded PDF:\n\nMy STAT-515 Projects"
+    "text": "Welcome to My STAT-515 Mid Project\nHere’s an embedded PDF:\n```{pdf, path=“/Users/saibhaskarganeshgandi/Documents/GitHub/mywebsite1/docs/Midproject1.pdf”}\n\nMy STAT-515 Projects"
   },
   {
     "objectID": "assignments.html",
