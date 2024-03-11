@@ -19,7 +19,7 @@ Here is the powerpoint presentation: -
 
 
 
-## Title: Using R to Redesign Statistical Graphs: Application to Flight and Spotify Datasets
+## Title: Using R to Redesign Statistical Graphs: Application to Flight and Spotify Datasets.
 
 
 Effective data visualization is crucial for clearly and successfully expressing ideas in the field of statistical research. In our first STAT 515 mid-project, we used R programming to restyle graphs for two different datasets: Flights and Spotify. Notably, we revised the graphics showing the distribution of airtime and the average delay by month for the Flights dataset and converted the time data into a more understandable format. In a similar vein, we redesigned the Spotify dataset's popularity numbers and top 10 genres presentation. By making these efforts, we want to improve the graphical representations' readability and aesthetic appeal and enable more in-depth understanding of the underlying data trends.
