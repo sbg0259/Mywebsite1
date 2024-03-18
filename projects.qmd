@@ -5,22 +5,18 @@ output:
     self_contained: False
 ---
 
-# Welcome to My STAT-515 Mid Project
-------------------------------------------------------------------------
+## \# Welcome to My STAT-515 Mid Project
 
 Here is the Youtube link: -
 
 {{< video https://www.youtube.com/watch?v=akBm5wiheH0 >}}
 
+
 Here is the powerpoint presentation: -
 
 [Download](https://docs.google.com/presentation/d/1tK0qvPov3dz7nH5euSGVJkUElKdROaQw/edit?usp=drive_link&ouid=111637161254397432115&rtpof=true&sd=true)
 
-
-
-
 ## Title: Using R to Redesign Statistical Graphs: Application to Flight and Spotify Datasets.
-
 
 Effective data visualization is crucial for clearly and successfully expressing ideas in the field of statistical research. In our first STAT 515 mid-project, we used R programming to restyle graphs for two different datasets: Flights and Spotify. Notably, we revised the graphics showing the distribution of airtime and the average delay by month for the Flights dataset and converted the time data into a more understandable format. In a similar vein, we redesigned the Spotify dataset's popularity numbers and top 10 genres presentation. By making these efforts, we want to improve the graphical representations' readability and aesthetic appeal and enable more in-depth understanding of the underlying data trends.
 
@@ -34,15 +30,12 @@ We were able to improve readability and clarity, two issues with the previous vi
 
 In conclusion, our mid project STAT 515 project has shown how powerful R programming can be when it comes to creating new statistical graphs for the Flights and Spotify datasets. We improved the graphs' readability and clarity by modernizing the way time data was represented and enhancing the way important metrics were visualized. This allowed us to get a better understanding of the visualizations. In the future, we hope to investigate more sophisticated visualization methods in order to gain even more profound understanding of intricate datasets.
 
-
-
 #References: -
 
 #Dataset of Flights:-
 
 <a href="https://www.kaggle.com/code/saeedehkamjoo/visualization-on-flights-dataset/notebook" target="_blank">https://www.kaggle.com/code/saeedehkamjoo/visualization-on-flights-dataset/notebook</a>
 
-
-#Dataset of spotify:- 
+#Dataset of spotify:-
 
 <a href="https://www.kaggle.com/code/ericbiernacki/popular-songs-bad-graph-example/notebook" target="_blank">https://www.kaggle.com/code/ericbiernacki/popular-songs-bad-graph-example/notebook</a>
